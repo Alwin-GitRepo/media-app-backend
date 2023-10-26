@@ -1,0 +1,14 @@
+{
+  "name": "media-back",
+  "version": "1.0.0",
+  "description": "back end for backend creation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "alwin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
